@@ -3,7 +3,7 @@
 ; Section 2.1.1
 ;
 
-; gcd defition from Section 1.2.5:
+; gcd definition from Section 1.2.5:
 (define (gcd a b)
   (if (= b 0)
       a
